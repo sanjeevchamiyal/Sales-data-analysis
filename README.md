@@ -1,13 +1,13 @@
 # Sales-data-analysis
 
-# 🚀 Overview
+# Overview
 This project analyzes data from four major e-commerce platforms:
 
 🛒 Blinkit, Zepto, Myntra, and Flipkart
 
 Using Power BI, the dashboards provide interactive visualizations to uncover key insights into sales trends, customer behavior, product performance, and market trends across these platforms.
 
-## 🔍 Key Insights & Visualizations
+## Key Insights & Visualizations
 
 ### 1️⃣ Sales Performance
 
@@ -18,7 +18,7 @@ Using Power BI, the dashboards provide interactive visualizations to uncover key
 
 ### 2️⃣ Popular Products
 
-#### 🏆 Dashboard Insights:
+#### Dashboard Insights:
 - Top-selling products on each platform
 - Best-performing categories based on revenue and sales volume
 - Customer purchase patterns for trending items
@@ -67,22 +67,18 @@ Each dashboard is designed to enhance business intelligence by providing clear, 
 Below are sample views of the Power BI Dashboards for each e-commerce platform:
 
 ### 🖼Blinkit Dashboard
-![Blinkit Dashboard]
 
 ![image](https://github.com/user-attachments/assets/41f77451-5e39-4626-b428-55dbdc8565f1)
 
 ### 🖼Zepto Dashboard
-![Zepto Dashboard]
 
 ![image](https://github.com/user-attachments/assets/4b6fa2ca-9770-4391-94bc-ea80f79543f5)
 
 ### 🖼Myntra Dashboard
-![Myntra Dashboard]
 
 ![image](https://github.com/user-attachments/assets/9981eaa4-fdcb-482e-a2bd-45fc38660546)
 
 ### 🖼Flipkart Dashboard
-![Flipkart Dashboard]
 
 ![image](https://github.com/user-attachments/assets/fb94654a-4783-4a41-86ae-0837d1ba4e25)
 
